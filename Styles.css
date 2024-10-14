@@ -1,0 +1,96 @@
+body {
+    color: white;
+    background: rgb(14, 14, 14);
+    margin: 0px;
+    font-family: "Fraunces", serif;
+    padding-bottom: 100px;
+}
+
+
+section {
+
+    background: rgb(12, 12, 12);
+    padding-bottom: 15px;
+    display: block;
+    Color: yellow;
+   
+    
+
+}
+
+img{
+
+padding-bottom: 0px;
+margin-bottom: 20px;
+}
+
+
+.Texto{
+
+    margin-right: 5%;
+
+}
+
+h1{
+
+    font-size: 35px;
+    margin: 2px;
+
+
+}
+
+
+.Santos{
+
+height: 400px;
+font-size: 30px;
+margin-top: 9px;
+margin-bottom: 9px;
+color: white;
+
+
+}
+
+p{
+
+color: white;
+
+}
+
+.Santos2 {
+
+display: flex;
+overflow-x: auto;
+gap: 20px;
+
+
+
+}
+
+.Santos2 img{
+
+opacity: 0.3;
+
+}
+
+.Santos2 img:hover {
+
+opacity: 1.0;
+border: solid 1px white;
+
+}
+
+h2{
+
+display: flex;
+justify-content: center;
+font-size: 30px;
+
+}
+
+.Acutis{
+
+color: white;
+justify-content: flex-end;
+
+}
